@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Sweet Haven | Cakes Made With Love",
+  title: "Formacion Cakes and Pastries",
   description:
     "Beautiful handcrafted cakes made fresh for birthdays, weddings, celebrations and every sweet moment.",
 };
