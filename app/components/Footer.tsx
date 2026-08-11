@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col justify-between gap-8 md:flex-row md:items-center">
           <div>
             <div className="font-serif text-xl font-bold text-[#493630]">
-              Sweet Haven
+              FORMACION
             </div>
 
             <p className="mt-1 text-xs text-[#98786e]">
@@ -32,7 +32,7 @@ export default function Footer() {
           </div>
 
           <p className="text-xs text-[#a28c84]">
-            © {new Date().getFullYear()} Sweet Haven
+            © {new Date().getFullYear()} Formacion
           </p>
         </div>
       </div>
